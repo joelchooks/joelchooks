@@ -2,15 +2,10 @@ Hi there 👋
 
 I am Chukwuemeka, a software developer and I love building exciting applications.
 
-<!-- <p align="center"> -->
-<!--   <img src="https://s.gravatar.com/avatar/94a794e2779aacfc336f37838a5ffcbf?s=80" width="70" />   -->
-<!--   <h2 align="center"><a href="#">Chukwuemeka Nwaoma</a></h2>
-  <p align="center">Software Engineer</p> -->
-<!-- </p> -->
 
 
 ## KEY SKILLS
-![langs](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen) ![l](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![](https://hit.yhype.me/github/profile?user_id=47852925) ![l](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)) ![lamgs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![lamgs](https://img.shields.io/badge/heroku-092E20?style=for-the-badge&logo=heroku&logoColor=green) ![lamgs](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![lamgs](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![lamgs](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![langs](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen) ![l](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![](https://hit.yhype.me/github/profile?user_id=47852925) ![l](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![lamgs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![lamgs](https://img.shields.io/badge/heroku-092E20?style=for-the-badge&logo=heroku&logoColor=green) ![lamgs](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![lamgs](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![lamgs](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 <br>
 
