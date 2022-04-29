@@ -20,7 +20,7 @@ A bit about me:
 - 📫 How to reach me: ...  joelchukks@gmail.com
 - 📫 Contributor @<a href="https://github.com/DemocracyLab/CivicTechExchange">DemocracyLabs</a>
 - 👨‍💻 Backend Engineer @<a href="https://github.com/LibertytechX">Liberty-TechX
-- ✍ Blog <br /> <br /> <a href="https://dev.to/joelchuks">dev.to</a><br /> <br />
+- ✍ Blog <a href="https://dev.to/joelchuks">dev.to</a><br /> <br />
 - ✨Skills <br /> <br /> ![langs](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen) ![l](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![](https://hit.yhype.me/github/profile?user_id=47852925) ![l](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![langs](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![lamgs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![lamgs](https://img.shields.io/badge/heroku-092E20?style=for-the-badge&logo=heroku&logoColor=green) ![lamgs](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![lamgs](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![lamgs](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![lamgs](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![lamgs](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![lamgs](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 <br />
