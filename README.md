@@ -1,6 +1,6 @@
 Hi there 👋
 
-I am Chukwuemeka, a software developer and I love building exciting applications.
+I am Chukwuemeka, I am a Software Developer and I love building exciting applications.
 
 
 
