@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <p align="center">
   <img src="https://s.gravatar.com/avatar/94a794e2779aacfc336f37838a5ffcbf?s=80" width="70" />  
   <h2 align="center"><a href="#">Chukwuemeka Nwaoma</a></h2>
@@ -19,14 +16,9 @@ A bit about me:
 
 
 - 🌱 Python/Django Engineer
-- 👯 I’m looking to collaborate on ... future technology
-- 💬 Ask me about ... Nigeria Music and about my home town
-- 📫 How to reach me: ...  joseph4jubilant@gmail.com
-- ⚡ Fun fact: ... 
-- 📫 Contributor @<a href="https://github.com/layer5io">Layer5</a>
-- ✍ Ex backend developer @<a href="https://instincthub.com/">Instincthub</a>
-- 👨‍💻 Ex Intern @<a href="https://github.com/zurichat">Zuri chat</a>(company sale prospect plugin)
-- 👨‍💻 <a href="https://hng.tech/"> HNG</a> i8 Finalist 
+- 👯 I’m looking to collaborate on ... Exciting projects
+- 📫 How to reach me: ...  joelchukks@gmail.com
+- 📫 Contributor @<a href="https://github.com/DemocracyLab/CivicTechExchange">Layer5</a>
 - 👨‍💻 Backend Engineer @<a href="https://github.com/LibertytechX">Liberty tech
 - ✍ Blog <br /> <br /> <a href="https://dev.to/joelchuks">![lamgs](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a><br /> <br />
 - ✨Skills <br /> <br /> ![langs](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen) ![l](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
