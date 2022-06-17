@@ -33,7 +33,8 @@ I always take every opportunity I get to learn something new.
 ![](https://komarev.com/ghpvc/?username=your-github-joelchooks&color=brightgreen)
 [![GitHub followers](https://img.shields.io/github/followers/joelchooks.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/joelchooks?tab=followers)
 
-
+<!-- 
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephchinedu&theme=blue-green" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josephchinedu&show_icons=true&locale=en&theme=tokyonight" width="410" /></p>
+ -->
