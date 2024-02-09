@@ -15,7 +15,8 @@ I also have experience with
   <li> Cloud computing (AWS and Digital ocean) </li>
   <li> Linux </li>
   <li> Docker </li>
-  <li> Redux </li>
+  <li> Python </li>
+  <li> NodeJS </li>
 </ul>
 
 <br>
@@ -27,7 +28,7 @@ I always take every opportunity I get to learn something new.
 
 ## CONTACT
 <p>
-  <a href="https://chukwuemekanwaoma.com">Portfolio</a> | <a href="https://www.linkedin.com/in/joelchukks/">LinkedIn | joelchukks@gmail.com</a>
+  <a href="https://chukwuemekanwaoma.com.ng">Portfolio</a> | <a href="https://www.linkedin.com/in/joelchukks/">LinkedIn | joelchukks@gmail.com</a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=your-github-joelchooks&color=brightgreen)
